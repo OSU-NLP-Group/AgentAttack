@@ -64,7 +64,7 @@ We introduce **ULTRON**, a hypothetical language agent designed as a versatile a
 
   *Shuyan Zhou, Frank F Xu, Hao Zhu, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng, Yonatan Bisk, Daniel Fried, Uri Alon, et al. 2023.*
 
-- **Multimodal web navigation with instruction-finetuned foundation models. ** [[paper](https://arxiv.org/abs/2305.11854)]
+- **Multimodal web navigation with instruction-finetuned foundation models** [[paper](https://arxiv.org/abs/2305.11854)]
 
   *Hiroki Furuta, Ofir Nachum, Kuang-Huei Lee, Yutaka Matsuo, Shixiang Shane Gu, and Izzeddin Gur. 2023b.*
 
@@ -151,7 +151,7 @@ We introduce **ULTRON**, a hypothetical language agent designed as a versatile a
 
 ## Conceptual Framework & Adversarial Attacks
 
-Under the presented conceptual framework for language agent, we compile the relevant adversarial attacks against different components of an agent, to substantiate the discussions on attack scenarios in our paper. It covers different attack strategies such as input manipulation, adversarial demonstrations, jailbreaking, backdoors, etc.
+Under the presented conceptual framework for language agent, we compile the relevant adversarial attacks against different components of an agent, to substantiate the discussions on 12 attack scenarios proposed in our paper. It covers different attack strategies such as input manipulation, adversarial demonstrations, jailbreaking, backdoors, etc.
 
 ### 1. Perception
 
