@@ -13,37 +13,36 @@ In this work, we present *the first systematic effort in mapping adversarial att
 Paper link: [A Trembling House of Cards? Mapping Adversarial Attacks against Language Agents](https://arxiv.org/abs/2402.10196)
 
 ## Table of Content
-- [A Hypothetical Generalist Agent](#generalist-agent)
-  - [1. Web Agents](#web-agents)
-  - [2. Communicative Agents](#communicative-agents)
-  - [3. Tool Agents](#tool-agents)
+- [A Hypothetical Generalist Agent](#a-hypothetical-generalist-agent)
+  - [1. Web Agents](#1-web-agents)
+  - [2. Communicative Agents](#2-communicative-agents)
+  - [3. Tool Agents](#3-tool-agents)
 
-- [Conceptual Framework & Adversarial Attacks](#conceptual-framework)
-  - [1. Perception](#perception)
-    - [Attacks - Input Manipulation](#attacks-input-manipulation)
-    <!-- - [1.1 Textual Input](#11-text-input)
-    - [1.2 Visual Input](#12-visual-input)
-    - [1.3 Auditory Input](#13-auditory-input) -->
+- [Conceptual Framework & Adversarial Attacks](#conceptual-framework--adversarial-attacks)
+  - [1. Perception](#1-perception)
+    - [Attacks - Input Manipulation](#attacks---input-manipulation)
 
-  - [2. Brain](#brain)
-    - [2.1 Reasoning & Planning](#21-reasoning-planning)
-      - [Attacks - Jailbreaking & Prompt Injection](#attacks-jailbreaking-prompt-injection)
+  - [2. Brain](#2-brain)
+    - [2.1 Reasoning & Planning](#21-reasoning--planning)
+      - [Attacks - Jailbreaking & Prompt Injection](#attacks---jailbreaking--prompt-injection)
     - [2.2 Working Memory](#22-working-memory)
-      - [Attacks - Adversarial Demonstration](#attacks-adversarial-demonstration)
+      - [Attacks - Adversarial Demonstration](#attacks---adversarial-demonstration)
     - [2.3 Long-Term Memory](#23-long-term-memory)
-      - [Attacks - Backdoors & Data Poisoning](#attacks-backdoors-data-poisoning)
+      - [Attacks - Backdoors & Data Poisoning](#attacks---backdoors--data-poisoning)
 
   - [3. Action](#action)
-    - [3.1 Tool Augmentation](#31-reasoning-planning)
-      - [Attacks - Tool Use](#attacks-tool-use)
+    - [3.1 Tool Augmentation](#31-tool-augmentation)
+      - [Attacks - Tool Use](#attacks---tool-use)
     - [3.2 Embodiment](#32-embodiment)
-      - [Attacks - Embodiment](#attacks-embodiment)
+      - [Attacks - Embodiment](#attacks---embodiment)
 
-- [Citation](#-citation)
+- [Citation](#citation)
 
 ## A Hypothetical Generalist Agent
 
-![example agent](assets/running_agent.png)
+<!-- ![example agent](assets/running_agent.png) -->
+
+<div align=center><img src="./assets/running_agent.png" width="70%" /></div>
 
 We introduce **ULTRON**, a hypothetical language agent designed as a versatile assistant capable of performing complex tasks in both virtual and physical environments. It represents our envisioned agent that could be made possible in the future, drawing upon the development of various types of agents, including Web Agents, Communicative Agents, and Tool Agents. ULTRON integrates the functionalities from these agent categories, including web navigation, chat interaction, and external tool utilization. Below, we compile an overview of relevant work for each agent category.
 
