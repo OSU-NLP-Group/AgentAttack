@@ -225,6 +225,10 @@ Under the presented conceptual framework for language agent, we compile the rele
 
   *Zaibin Zhang, Yongting Zhang, Lijun Li, Hongzhi Gao, Lijun Wang, Huchuan Lu, Feng Zhao, Yu Qiao, and Jing Shao. 2024.*
 
+- **How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs** [[paper](http://arxiv.org/abs/2401.06373)]
+
+  *Yi Zeng, Hongpeng Lin, Jingwen Zhang, Diyi Yang, Ruoxi Jia, and Weiyan Shi. 2024.*
+
 
 #### 2.2 Working Memory
 
