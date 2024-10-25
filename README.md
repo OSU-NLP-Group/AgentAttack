@@ -1,7 +1,5 @@
 # A Trembling House of Cards? Mapping Adversarial Attacks against Language Agents
 
-<!-- This is the repo for our paper "[A Trembling House of Cards? Mapping Adversarial Attacks against Language Agents](https://arxiv.org/abs/2402.10196)". Stay tuned! -->
-
 ![framework](assets/framework.png)
 
 Language agents powered by large language models (LLMs) have seen exploding development. Their capability of using language as a vehicle for thought and communication lends an incredible level of flexibility and versatility. People have quickly capitalized on this capability to connect LLMs to a wide range of external components and environments: databases, tools, the Internet, robotic embodiment, etc. Many believe an unprecedentedly powerful automation technology is emerging. 
